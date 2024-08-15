@@ -14,9 +14,6 @@ This project is a basic HTML webpage template. It includes a structured layout w
 
 Here are some screenshots of the template:
 
-![Logo](images/b92bf19612e524ac1f9d5e998770eba7-removebg-preview.png)
-![Sample Image](https://www.pexels.com/)
-
 ### Homepage
 
 ![Homepage](readme-photo/Screenshot%202024-08-15%20221333.png)
